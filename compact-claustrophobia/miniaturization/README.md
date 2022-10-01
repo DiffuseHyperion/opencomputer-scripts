@@ -1,4 +1,4 @@
-### Miniaturization field automation robot
+### Miniaturization field robot
 
 These are scripts to atuomate using the miniaturization field cuz copy and paste gadget sucks to use lol
 
@@ -6,11 +6,18 @@ You need both `3x3x3-crafting.lua` and `recipes.lua` in your robot!
 
 ## Setup
 Follow the picture below, this should fit perfectly in your 9x9 cube
-You can add a crafter from refined storage into the input chest, and an importer at the output chest for autocrafting
+You can add a crafter from refined storage into the input chest, and an importer at the output chest for easy autocrafting.
+
 ![Setup](setup.png)
 
 ## Recipes
 There are some default recipes in the repository. If you want to make more, heres an example and breakdown of how the recipes work:
+Included recipes:
+  - Ender pearl
+  - Compact machine walls
+  - Small compact machine
+  - Normal compact machine
+
 ```
 local OBI = "minecraft:obsidian"
 local RSB = "minecraft:redstone_block"
@@ -23,6 +30,8 @@ recipes = {
     enderpearl = { -- The name here is unused, but I would keep it as the recipe output name
         structure = { -- The structure the robot needs to create to create the output
         -- This should be seen from a top-down view.
+        -- You can put "minecraft:air" to get the robot to skip placing blocks at the particular location.
+          -- Useful for compact machine walls
             {
                 {OBI, OBI, OBI},
                 {OBI, OBI, OBI},
