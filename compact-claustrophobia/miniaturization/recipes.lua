@@ -11,20 +11,16 @@ local CMW = "compactmachines3:wallbreakable"
 recipes = {
     enderpearl = {
         structure = {
-            -- layer 1
-            -- viewed from top down!
             {
                 {OBI, OBI, OBI},
                 {OBI, OBI, OBI},
                 {OBI, OBI, OBI},
             },
-            -- layer 2
             {
                 {OBI, OBI, OBI}, 
                 {OBI, RSB, OBI},
                 {OBI, OBI, OBI},
             },
-            -- layer 3
             {
                 {OBI, OBI, OBI},
                 {OBI, OBI, OBI},
@@ -51,20 +47,16 @@ recipes = {
     },
     compactmachinewall = {
         structure = {
-            -- layer 1
-            -- viewed from top down!
             {
                 {AIR, AIR, AIR},
                 {AIR, AIR, AIR},
                 {AIR, INB, AIR},
             },
-            -- layer 2
             {
                 {AIR, AIR, AIR}, 
                 {AIR, AIR, AIR},
                 {AIR, RS, AIR},
             },
-            -- layer 3
             {
                 {AIR, AIR, AIR},
                 {AIR, AIR, AIR},
@@ -87,20 +79,16 @@ recipes = {
     },
     smallcompactmachine = {
         structure = {
-            -- layer 1
-            -- viewed from top down!
             {
                 {CMW, CMW, CMW},
                 {CMW, CMW, CMW},
                 {CMW, CMW, CMW},
             },
-            -- layer 2
             {
                 {CMW, CMW, CMW}, 
                 {CMW, INB, CMW},
                 {CMW, CMW, CMW},
             },
-            -- layer 3
             {
                 {CMW, CMW, CMW},
                 {CMW, CMW, CMW},
@@ -127,20 +115,16 @@ recipes = {
     },
     normalcompactmachine = {
         structure = {
-            -- layer 1
-            -- viewed from top down!
             {
                 {CMW, CMW, CMW},
                 {CMW, CMW, CMW},
                 {CMW, CMW, CMW},
             },
-            -- layer 2
             {
                 {CMW, CMW, CMW}, 
                 {CMW, GDB, CMW},
                 {CMW, CMW, CMW},
             },
-            -- layer 3
             {
                 {CMW, CMW, CMW},
                 {CMW, CMW, CMW},
