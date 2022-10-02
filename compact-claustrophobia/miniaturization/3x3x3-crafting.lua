@@ -100,7 +100,7 @@ function collectItems(recipe)
             if chestItem and chestItem.name == requiredItem.name then
                 robot.select(currentSlot)
                 -- check if chestItem's size can fulfill the request
-                if chestItem.size => remainingItems then
+                if chestItem.size >= remainingItems then
                     -- sufficient items in the stack! take whats needed and continue to next item required
                     ic.suckFromSlot(sides.front, i1, remainingItems)
                     remainingItems = 0
