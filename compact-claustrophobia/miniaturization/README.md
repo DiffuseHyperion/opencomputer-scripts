@@ -17,6 +17,9 @@ Included recipes:
   - Compact machine walls
   - Small compact machine
   - Normal compact machine
+  - Giant compact machine
+  - Maximum compact machine
+  - Tunnel
 
 ```
 local OBI = "minecraft:obsidian"
