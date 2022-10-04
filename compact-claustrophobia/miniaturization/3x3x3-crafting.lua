@@ -164,12 +164,8 @@ end
 
 function dropCatalyst(recipe)
     print("dropping " .. recipe.activation .. " to start miniaturization!")
-    robot.up()
-    robot.up()
     selectBlock(recipe.activation)
     robot.drop(1)
-    robot.down()
-    robot.down()
 end
 
 function collectOutput()
