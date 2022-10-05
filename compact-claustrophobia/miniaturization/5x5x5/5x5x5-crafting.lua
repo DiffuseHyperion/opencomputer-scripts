@@ -5,16 +5,6 @@ local sides = require "sides"
 local component = require "component"
 local ic = component.inventory_controller
 
-local OBI = "minecraft:obsidian"
-local RSB = "minecraft:redstone_block"
-local RS = "minecraft:redstone"
-local GDB = "minecraft:gold_block"
-local INB = "minecraft:iron_block"
-local EP = "minecraft:ender_pearl"
-local AIR = "minecraft:air"
-
-local CMW = "compactmachines3:wallbreakable"
-
 print("reorientating...")
 while robot.detect() do
     robot.turnRight()
@@ -121,7 +111,10 @@ function buildStructure(recipe)
     robot.forward()
     robot.forward()
     robot.forward()
-    moveLeft(1)
+    robot.forward()
+    robot.forward()
+    robot.forward()
+    moveLeft(2)
     -- for each layer
     for i, layer in pairs(recipe.structure) do
         -- for each row
@@ -140,16 +133,16 @@ function buildStructure(recipe)
                     -- this if statement helps optimzation
                     robot.place()
                 end
-                if i2 ~= 3 then
+                if i2 ~= 5 then
                     moveRight(1)
                 end
             end
-            if i1 ~= 3 then
+            if i1 ~= 5 then
                 robot.back()
                 moveLeft(2)
             end
         end
-        if i ~= 3 then
+        if i ~= 5 then
             robot.up()
             robot.forward()
             robot.forward()
@@ -158,7 +151,10 @@ function buildStructure(recipe)
     end
     robot.down()
     robot.down()
-    moveLeft(1)
+    robot.down()
+    robot.down()
+    moveLeft(2)
+    robot.back()
     robot.back()
 end
 
@@ -172,9 +168,13 @@ function collectOutput()
     print("collecting output!")
     robot.forward()
     robot.forward()
+    robot.forward()
+    robot.forward()
     robot.select(1)
     robot.suck()
     print("collected items, storing now!")
+    robot.back()
+    robot.back()
     robot.back()
     robot.back()
     robot.turnRight()

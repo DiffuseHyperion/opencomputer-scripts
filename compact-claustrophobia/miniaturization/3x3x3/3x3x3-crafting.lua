@@ -5,16 +5,6 @@ local sides = require "sides"
 local component = require "component"
 local ic = component.inventory_controller
 
-local OBI = "minecraft:obsidian"
-local RSB = "minecraft:redstone_block"
-local RS = "minecraft:redstone"
-local GDB = "minecraft:gold_block"
-local INB = "minecraft:iron_block"
-local EP = "minecraft:ender_pearl"
-local AIR = "minecraft:air"
-
-local CMW = "compactmachines3:wallbreakable"
-
 print("reorientating...")
 while robot.detect() do
     robot.turnRight()
