@@ -13,35 +13,35 @@ recipes = {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             }
         },
         required = {
@@ -65,35 +65,35 @@ recipes = {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, DMB, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             }
         },
         required = {
@@ -121,35 +121,35 @@ recipes = {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, GGM, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             }
         },
         required = {
