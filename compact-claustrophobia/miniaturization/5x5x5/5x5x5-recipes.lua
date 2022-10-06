@@ -13,36 +13,36 @@ recipes = {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
+            },
+            {
                 {CMW, CMW, CMW, CMW, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
+            },
+            {
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             }
-            {
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-            },
-            {
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-            },
         },
         required = {
             {
@@ -52,7 +52,7 @@ recipes = {
             {
                 name = EP,
                 quantity = 1
-            },
+            }
         },
         activation = EP,
         delay = 30,
@@ -65,36 +65,36 @@ recipes = {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, DMB, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
+            },
+            {
                 {CMW, CMW, CMW, CMW, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
+            },
+            {
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             }
-            {
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-            },
-            {
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-            },
         },
         required = {
             {
@@ -108,7 +108,7 @@ recipes = {
             {
                 name = EP,
                 quantity = 1
-            },
+            }
         },
         activation = EP,
         delay = 30,
@@ -121,36 +121,36 @@ recipes = {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             },
             {
                 {CMW, CMW, CMW, CMW, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
                 {CMW, AIR, GGM, AIR, CMW},
                 {CMW, AIR, AIR, AIR, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
+            },
+            {
                 {CMW, CMW, CMW, CMW, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, AIR, AIR, AIR, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
+            },
+            {
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW},
+                {CMW, CMW, CMW, CMW, CMW}
             }
-            {
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, AIR, AIR, AIR, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-            },
-            {
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-                {CMW, CMW, CMW, CMW, CMW},
-            },
         },
         required = {
             {
@@ -164,7 +164,7 @@ recipes = {
             {
                 name = EP,
                 quantity = 1
-            },
+            }
         },
         activation = EP,
         delay = 30,
