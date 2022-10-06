@@ -139,14 +139,16 @@ function buildStructure(recipe)
             end
             if i1 ~= 5 then
                 robot.back()
-                moveLeft(2)
+                moveLeft(4)
             end
         end
         if i ~= 5 then
             robot.up()
             robot.forward()
             robot.forward()
-            moveLeft(2)
+            robot.forward()
+            robot.forward()
+            moveLeft(4)
         end
     end
     robot.down()
